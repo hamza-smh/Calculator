@@ -1,2 +1,2 @@
 # simpleWebCalculator
-TEST ONLY: https://darkk2k.github.io/simpleWebCalculator/
+TEST ONLY: https://hamza-smh.github.io/Hamza/
